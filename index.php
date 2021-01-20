@@ -5,6 +5,7 @@
   <title>Govinda Éttermek</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Quicksand:wght@300;700&family=Roboto:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
   <link rel="stylesheet" href="css/style.min.css">
   <link rel="stylesheet" href="css/krisna-menu.min.css">
   <meta name="viewport" content="width=device-width, maximum-scale=1, minimum-scale=1" />
@@ -45,6 +46,85 @@
       </div>
     </section>
     <?php if (empty($_GET)) : ?>
+      <section id="restaurants">
+        <h1>Éttermeink</h1>
+        <h2>Magyorországi éttermeink elérhetősége</h2>
+
+        <div>
+          <div class="restaurant">
+            <h3>Govinda Vigyázó</h3>
+            <div>
+              <h4>Vegetáriánus Étterem és Salátabár</h4>
+              <img src="./img/vigyazo.jpg" alt="Govinda Vigyázó">
+              <p>
+                <i class="fas fa-map-marker-alt"></i> 1051 Budapest, Vigyázó Ferenc u. 4
+              </p>
+              <a href="https://www.facebook.com/govindabudapest" class="web"><i class="fas fa-link"></i></a>
+            </div>
+          </div>
+
+          <div class="restaurant">
+            <h3>Govinda Vega Sarok</h3>
+            <div>
+              <h4>Vegetáriánus Étterem és Salátabár</h4>
+              <img src="./img/vigyazo.jpg" alt="Govinda Vega Sarok">
+              <p>
+                <i class="fas fa-map-marker-alt"></i> 1053 Budapest, Papnövelde u. 1
+              </p>
+              <a href="https://www.facebook.com/vegasarok" class="web"><i class="fas fa-link"></i></a>
+            </div>
+          </div>
+
+          <div class="restaurant">
+            <h3>Govinda Csillaghegy</h3>
+            <div>
+              <h4>Vegetáriánus Étterem és Salátabár</h4>
+              <img src="./img/vigyazo.jpg" alt="Govinda Csillaghegy">
+              <p>
+                <i class="fas fa-map-marker-alt"></i> 1039 Budapest, Lehel U. 15-17
+              </p>
+              <a href="https://www.facebook.com/govindacsillaghegy" class="web"><i class="fas fa-link"></i></a>
+            </div>
+          </div>
+
+          <div class="restaurant">
+            <h3>Krisna-völgy Govinda Étterem</h3>
+            <div>
+              <h4>Vegán Étterem</h4>
+              <img src="./img/vigyazo.jpg" alt="Krisna-völgy Govinda Étterem">
+              <p>
+                <i class="fas fa-map-marker-alt"></i> 8699 Somogyvámos Gauranga tér 1
+              </p>
+              <a href="https://krisnavolgy.hu/etterem" class="web"><i class="fas fa-link"></i></a>
+            </div>
+          </div>
+
+          <div class="restaurant">
+            <h3>Eger Govinda Étterem</h3>
+            <div>
+              <h4>Vegán Étterem</h4>
+              <img src="./img/vigyazo.jpg" alt="Eger Govinda Étterem">
+              <p>
+                <i class="fas fa-map-marker-alt"></i> 3300 Eger Tűzoltó tér 5
+              </p>
+              <a href="http://govindaeger.hu" class="web"><i class="fas fa-link"></i></a>
+            </div>
+          </div>
+
+          <div class="restaurant">
+            <h3>Debrecen Govinda Étterem</h3>
+            <div>
+              <h4>Vegán Étterem</h4>
+              <img src="./img/vigyazo.jpg" alt="Debrecen Govinda Étterem">
+              <p>
+                <i class="fas fa-map-marker-alt"></i> 4028 Debrecen Magyari u. 2
+              </p>
+              <a href="http://govindadebrecen.hu" class="web"><i class="fas fa-link"></i></a>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section id="special">
         <h1>Különlegességek</h1>
         <h2>A vegetáriánus konyha csodás sokszínűsége</h2>
@@ -77,35 +157,6 @@
     </article>
     <?php endif; ?>
   </main>
-  <aside class="c"><img src="img/govinda_logo.png" alt="logo"></aside>
-  <aside>
-      <dl>
-          <dt>Govinda Vegetáriánus Étterem és Salátabár</dt>
-          <dd>1051 Budapest, Vigyázó Ferenc u. 4, <a href="https://www.facebook.com/govindabudapest
-">https://www.facebook.com/govindabudapest</a></dd>
-
-          <dt>Govinda Vega Sarok</dt>
-          <dd>1053 Budapest, Papnövelde u. 1, <a href="https://www.facebook.com/vegasarok">https://www.facebook.com/vegasarok</a></dd>
-          <dt>Govinda Csillaghegy</dt>
-          <dd>1039 Budapest, Lehel U. 15-17, <a href="https://www.facebook.com/govindacsillaghegy
-">https://www.facebook.com/govindacsillaghegy</a></dd>
-
-          <dt>Krisna-völgy Govinda Étterem</dt>
-          <dd>8699 Somogyvámos Gauranga tér 1, <a href="http://krisnavolgy.hu/etterem
-">http://krisnavolgy.hu/etterem</a></dd>
-
-          <dt>Eger Govinda Étterem</dt>
-          <dd>3300 Eger Tűzoltó tér 5, <a href="http://govindaeger.hu
-">http://govindaeger.hu</a></dd>
-
-          <dt>Govinda Debrecen</dt>
-          <dd>4028 Debrecen Magyari u. 2, <a href="http://govindadebrecen.hu
-">http://govindadebrecen.hu</a></dd>
-
-          <dt><a href="ettermek">Éttermek Európában</a></dt>
-      </dl>
-
-  </aside>
   <footer>
       <div>
       <h3>Krisna.hu hírlevél feliratkozás</h3>

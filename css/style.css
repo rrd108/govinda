@@ -34,16 +34,6 @@ nav ul li a {
   font-weight: bold;
 }
 
-dl {
-  padding-left: 1.5em;
-}
-dt {
-  font-weight: bold;
-}
-dd a {
-  display: block;
-}
-
 #govinda-menu ul {
   font-size: 0.9rem;
   padding: 0;
@@ -77,7 +67,8 @@ dd a {
 }
 
 #slider h2,
-#special h2 {
+#special h2,
+#restaurants h2 {
   margin-top: 0;
   font-family: 'Dancing Script', serif;
   font-size: 1.5rem;
@@ -101,7 +92,7 @@ dd a {
 
 #special {
   text-align: center;
-  background: #c33;
+  background: #3b8ea5;
   color: #fff;
   padding-bottom: 1em;
 }
@@ -111,7 +102,7 @@ dd a {
   color: #c33;
 }
 
-#special h1 {
+#special h1, #restaurants h1 {
   font-size: 200%;
   margin: 0;
   padding-top: 1em;
@@ -136,6 +127,53 @@ dd a {
   padding: .5em
 }
 
+#restaurants {
+  padding: 1em;
+  background-color: #c33;
+  color: #fff;
+  text-align: center;
+}
+
+#restaurants > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#restaurants div.restaurant {
+  width: 30%;
+  background-color: #f5ee9e;
+  color: #000;
+  margin: .5rem;
+}
+
+#restaurants div.restaurant > div {
+  padding: 0 1rem;
+  margin-bottom: 1rem;
+}
+
+#restaurants h3 {
+  background-color: #3b8ea5;
+  color: #fff;
+  margin: 0;
+  padding: 1rem;
+}
+
+#restaurants a.web {
+  display: block;
+  margin: 1rem auto;
+  font-size: 2.5rem;
+  background-color: #c33;
+  color: #fff;
+  border-radius: 50%;
+  width: 3.5rem;
+  text-align: center;
+  padding: .5rem;
+}
+#restaurants a.web:hover {
+  background-color: #3b8ea5;
+}
+
 article {
   margin: 1em 1em 1em 2em;
 }
@@ -145,10 +183,6 @@ article {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-}
-
-.c {
-  justify-content: center;
 }
 
 .f > p {
