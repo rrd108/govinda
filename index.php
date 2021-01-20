@@ -27,9 +27,9 @@
   <?php require './krisna-menu.php'; ?>
   <nav id="govinda-menu">
     <ul>
-      <li><a href="ettermek">Éttermek</a></li>
-      <li><a href="about">Rólunk</a></li>
-      <li><a href="karma-free">KarmaFree</a></li>
+      <li><a href="ettermek"><i class="fas fa-utensils"></i> Éttermek</a></li>
+      <li><a href="about"><i class="fas fa-people-carry"></i> Rólunk</a></li>
+      <li><a href="karma-free"><i class="fas fa-globe"></i> KarmaFree</a></li>
     </ul>
     <ul>
       <li>
