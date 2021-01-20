@@ -47,7 +47,7 @@
     </section>
     <?php if (empty($_GET)) : ?>
       <section id="restaurants">
-        <h1>Éttermeink</h1>
+        <h1>Éttermek</h1>
         <h2>Magyorországi éttermeink elérhetősége</h2>
 
         <div>
@@ -59,7 +59,10 @@
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1051 Budapest, Vigyázó Ferenc u. 4
               </p>
-              <a href="https://www.facebook.com/govindabudapest" class="web"><i class="fas fa-link"></i></a>
+              <p>
+                <i class="fas fa-phone-alt"></i> +36 (1) 797 9373
+              </p>
+              <a href="https://www.facebook.com/govindabudapest" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
           </div>
 
@@ -71,7 +74,10 @@
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1053 Budapest, Papnövelde u. 1
               </p>
-              <a href="https://www.facebook.com/vegasarok" class="web"><i class="fas fa-link"></i></a>
+              <p>
+                <i class="fas fa-phone-alt"></i> +36 (70) 255 2195
+              </p>
+              <a href="https://www.facebook.com/vegasarok" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
           </div>
 
@@ -81,9 +87,9 @@
               <h4>Vegetáriánus Étterem és Salátabár</h4>
               <img src="./img/vigyazo.jpg" alt="Govinda Csillaghegy">
               <p>
-                <i class="fas fa-map-marker-alt"></i> 1039 Budapest, Lehel U. 15-17
+                <i class="fas fa-map-marker-alt"></i> 1039 Budapest, Lehel u. 15-17
               </p>
-              <a href="https://www.facebook.com/govindacsillaghegy" class="web"><i class="fas fa-link"></i></a>
+              <a href="https://www.facebook.com/govindacsillaghegy" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
           </div>
 
@@ -95,7 +101,7 @@
               <p>
                 <i class="fas fa-map-marker-alt"></i> 8699 Somogyvámos Gauranga tér 1
               </p>
-              <a href="https://krisnavolgy.hu/etterem" class="web"><i class="fas fa-link"></i></a>
+              <a href="https://krisnavolgy.hu/etterem" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
           </div>
 
@@ -107,7 +113,7 @@
               <p>
                 <i class="fas fa-map-marker-alt"></i> 3300 Eger Tűzoltó tér 5
               </p>
-              <a href="http://govindaeger.hu" class="web"><i class="fas fa-link"></i></a>
+              <a href="http://govindaeger.hu" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
           </div>
 
@@ -119,7 +125,7 @@
               <p>
                 <i class="fas fa-map-marker-alt"></i> 4028 Debrecen Magyari u. 2
               </p>
-              <a href="http://govindadebrecen.hu" class="web"><i class="fas fa-link"></i></a>
+              <a href="http://govindadebrecen.hu" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
           </div>
         </div>

@@ -141,7 +141,6 @@ nav ul li a {
 }
 
 #restaurants div.restaurant {
-  width: 30%;
   background-color: #f5ee9e;
   color: #000;
   margin: .5rem;
@@ -170,6 +169,7 @@ nav ul li a {
   text-align: center;
   padding: .5rem;
 }
+
 #restaurants a.web:hover {
   background-color: #3b8ea5;
 }
@@ -239,8 +239,12 @@ img {
     font-size: 2rem;
   }
 
-  #slifer h2, #slider .button {
+  #slider h2, #slider .button {
     float: none;
+  }
+
+  #restaurants div.restaurant {
+    width: 30%;
   }
 
   #special>div, footer, .f, .c {
