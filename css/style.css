@@ -93,7 +93,8 @@ dd a {
   color: #fff;
   text-decoration: none;
 }
-.button:hover {
+
+.button:hover, #special .button:hover {
   background-color: #2d728f;
   color: #fff;
 }

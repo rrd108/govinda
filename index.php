@@ -44,38 +44,38 @@
         <a href="about" class="button">Tovább »</a>
       </div>
     </section>
-      <?php if (empty($_GET)) : ?>
-          <section id="special">
-              <h1>Különlegességek</h1>
-              <h2>A vegetáriánus konyha csodás sokszínűsége</h2>
-              <div>
-                  <div>
-                      <img src="img/pakora.jpg" alt="Pakora">
-                      <h3>Pakora</h3>
-                      <p>Bundában sült zöldségek <a href="pakora" class="button">Tovább »</a></p>
-                  </div>
-                  <div>
-                      <img src="img/puspanna.jpg" alt="Puspanna rizs">
-                      <h3>Puspanna rizs</h3>
-                      <p>Egy köret ami főétel is egyben <a href="puspanna" class="button">Tovább »</a></p>
-                  </div>
-                  <div>
-                      <img src="img/malpura.jpg" alt="Malpura">
-                      <h3>Malpura</h3>
-                      <p>Joghurtba áztatott tészta labdák <a href="malpura" class="button">Tovább »</a></p>
-                  </div>
-              </div>
-          </section>
-      <?php else : ?>
-      <article>
-          <?php
-          //avoid directory traversal
-          $page = str_replace('.', '', $_GET['page']);
-          $page = str_replace('/', '', $page);
-          include './' . 'o-' . $page . '.php';
-          ?>
-      </article>
-      <?php endif; ?>
+    <?php if (empty($_GET)) : ?>
+      <section id="special">
+        <h1>Különlegességek</h1>
+        <h2>A vegetáriánus konyha csodás sokszínűsége</h2>
+        <div>
+          <div>
+            <img src="img/pakora.jpg" alt="Pakora">
+            <h3>Pakora</h3>
+            <p>Bundában sült zöldségek <a href="pakora" class="button">Tovább »</a></p>
+          </div>
+          <div>
+            <img src="img/puspanna.jpg" alt="Puspanna rizs">
+            <h3>Puspanna rizs</h3>
+            <p>Egy köret ami főétel is egyben <a href="puspanna" class="button">Tovább »</a></p>
+          </div>
+          <div>
+            <img src="img/malpura.jpg" alt="Malpura">
+            <h3>Malpura</h3>
+            <p>Joghurtba áztatott tészta labdák <a href="malpura" class="button">Tovább »</a></p>
+          </div>
+        </div>
+      </section>
+    <?php else : ?>
+    <article>
+      <?php
+        //avoid directory traversal
+        $page = str_replace('.', '', $_GET['page']);
+        $page = str_replace('/', '', $page);
+        include './' . 'o-' . $page . '.php';
+      ?>
+    </article>
+    <?php endif; ?>
   </main>
   <aside class="c"><img src="img/govinda_logo.png" alt="logo"></aside>
   <aside>
