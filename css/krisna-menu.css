@@ -1,5 +1,5 @@
 nav#krisna-menu {
-    background-color: #d6d6d6;
+    background-color: #2d728f;
     font-family: "Roboto", Arial, Tahoma, sans-serif;
     display: block;
 }
@@ -25,12 +25,12 @@ nav#krisna-menu li {
 }
 
 nav#krisna-menu li:hover {
-    background-color: #f9f9f9;
+    background-color: #c33;
     border-radius: .3em;
 }
 
 nav#krisna-menu a {
-    color: #000;
+    color: #fff;
     text-decoration: none;
     margin: .4em 1em;
     font-weight: normal;
@@ -117,7 +117,7 @@ nav#krisna-menu a {
         margin: -100px 0 0 -50px;
         padding: 50px;
         padding-top: 125px;
-        background: #ededed;
+        background-color: #2d728f;
         list-style-type: none;
         -webkit-font-smoothing: antialiased;
         /* to stop flickering of text in safari */
