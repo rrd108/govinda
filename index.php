@@ -37,13 +37,13 @@
     </ul>
   </nav>
   <main>
-      <section id="slider">
-          <div>
-              <a href="index.php" title="Főoldal"><img src="img/govinda_logo.png" id="logo"></a>
-              <h2>A legfinomabb választás</h2>
-              <a href="about" class="button">Tovább »</a>
-          </div>
-      </section>
+    <section id="slider">
+      <div>
+        <a href="index.php" title="Főoldal"><img src="img/govinda_logo.png" id="logo"></a>
+        <h2>A legfinomabb választás</h2>
+        <a href="about" class="button">Tovább »</a>
+      </div>
+    </section>
       <?php if (empty($_GET)) : ?>
           <section id="special">
               <h1>Különlegességek</h1>

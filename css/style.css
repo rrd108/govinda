@@ -73,12 +73,14 @@ dd a {
 #slider h2 {
   color: #fff;
   float: left;
+  text-shadow: 1px 1px #2d728f;
 }
 
 #slider h2,
 #special h2 {
   margin-top: 0;
   font-family: 'Dancing Script', serif;
+  font-size: 1.5rem;
 }
 
 #slider .button {
@@ -90,6 +92,10 @@ dd a {
   background-color: #c33;
   color: #fff;
   text-decoration: none;
+}
+.button:hover {
+  background-color: #2d728f;
+  color: #fff;
 }
 
 #special {
@@ -187,7 +193,7 @@ img {
   }
 
   #slider > div {
-    width: 25%;
+    width: 35%;
   }
 
   #slider > div * {
@@ -195,7 +201,7 @@ img {
   }
 
   #slider h2 {
-    color: #c33;
+    font-size: 2rem;
   }
 
   #slifer h2, #slider .button {
