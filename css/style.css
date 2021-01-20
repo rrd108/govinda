@@ -1,0 +1,201 @@
+body {
+    color: #333;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #c33;
+}
+
+a:hover {
+    color: #777;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0 1em;
+    font-weight: bold;
+}
+
+dl {
+    padding-left: 1.5em;
+}
+dt {
+    font-weight: bold;
+}
+dd a {
+    display: block;
+}
+
+#slider {
+    background-image: url('../img/main.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 230px;
+    color: #c33;
+    padding: 1.5em 0 0 1.5em;
+}
+
+#slider > div {
+    width: auto;
+}
+
+#slider > div * {
+    width: auto;
+}
+
+#logo {
+    margin-left: -1em;
+}
+
+#slider h2 {
+    color: #fff;
+    float: left;
+}
+
+#slider h2,
+#special h2 {
+    margin-top: 0;
+    font-family: 'Dancing Script', serif;
+}
+
+#slider .button {
+    float: right;
+}
+
+.button {
+    padding: 1em;
+    background-color: #c33;
+    color: #fff;
+    text-decoration: none;
+}
+
+#special {
+    text-align: center;
+    background: #c33;
+    color: #fff;
+    padding-bottom: 1em;
+}
+
+#special .button {
+    background-color: #fff;
+    color: #c33;
+}
+
+#special h1 {
+    font-size: 200%;
+    margin: 0;
+    padding-top: 1em;
+}
+
+#special>div, footer, .f {
+    display: block;
+}
+
+#special>div div {
+    margin: 1em;
+}
+
+#special>div div img {
+    max-width: 100%;
+}
+
+#special a {
+    display: block;
+    width: 33%;
+    margin: .5em auto;
+    padding: .5em
+}
+
+article {
+    margin: 1em 1em 1em 2em;
+}
+
+#restaurant-map {
+    height: 650px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.c {
+    justify-content: center;
+}
+
+.f > p {
+    margin: 1em;
+}
+
+footer {
+    background: #c33;
+    color: #fff;
+    font-size: .9em;
+    border-top: 1em solid #fff;
+    justify-content: space-between;
+}
+
+footer div {
+    margin: 1em;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+img {
+    max-width: 100%;
+}
+
+.c {
+    display: none;
+}
+
+@media (min-width: 640px) {
+    #slider {
+        height: 300px;
+    }
+
+    #slider > div {
+        width: 25%;
+    }
+
+    #slider > div * {
+        width: 100%;
+    }
+
+    #slider h2 {
+        color: #c33;
+    }
+
+    #slifer h2, #slider .button {
+        float: none;
+    }
+
+    #special>div, footer, .f, .c {
+        display: flex;
+    }
+
+}
