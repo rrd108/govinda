@@ -37,7 +37,7 @@
         a forrásban lévő vizet. Kis lángon fedő alatt puhára főzzük, s ha elkészült, beleforgatjuk
         a panir kockákat, a zöldborsót, a mazsolát és az olajos magvakat.
         <br>
-        <i>Forrás: <a href="vegavarazs.hu">vegavarazs.hu</a></i>
+        <i>Forrás: <a href="https://vegavarazs.hu">vegavarazs.hu</a></i>
         <br>
         Gyere el hozzánk és kóstold meg! <a href="ettermek">Éttermeink itt találhatóak</a>
     </p>

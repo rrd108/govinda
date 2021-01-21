@@ -34,7 +34,7 @@
         túl forró, mert belül nyers marad a pakora, ám ne legyen hideg sem, mert akkor megszívja magát a
         zöldség. Aranybarnára sütjük, és egészen forrón, csatnival tálaljuk.
         <br>
-        <i>Forrás: <a href="vegavarazs.hu">vegavarazs.hu</a></i>
+        <i>Forrás: <a href="https://vegavarazs.hu">vegavarazs.hu</a></i>
         <br>
         Gyere el hozzánk és kóstold meg! <a href="ettermek">Éttermeink itt találhatóak</a>
     </p>
