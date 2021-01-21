@@ -55,7 +55,7 @@
             <h3>Govinda Vigyázó</h3>
             <div>
               <h4>Vegetáriánus Étterem és Salátabár</h4>
-              <img src="./img/vigyazo.jpg" alt="Govinda Vigyázó">
+              <img loading="lazy" src="./img/vigyazo.jpg" alt="Govinda Vigyázó">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1051 Budapest, Vigyázó Ferenc u. 4
               </p>
@@ -70,7 +70,7 @@
             <h3>Govinda Vega Sarok</h3>
             <div>
               <h4>Vegetáriánus Étterem és Salátabár</h4>
-              <img src="./img/vegasarok.jpg" alt="Govinda Vega Sarok">
+              <img loading="lazy" src="./img/vegasarok.jpg" alt="Govinda Vega Sarok">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1053 Budapest, Papnövelde u. 1
               </p>
@@ -85,7 +85,7 @@
             <h3>Govinda Csillaghegy</h3>
             <div>
               <h4>Vegetáriánus Étterem és Salátabár</h4>
-              <img src="./img/csillaghegy.jpg" alt="Govinda Csillaghegy">
+              <img loading="lazy" src="./img/csillaghegy.jpg" alt="Govinda Csillaghegy">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1039 Budapest, Lehel u. 15-17
               </p>
@@ -100,7 +100,7 @@
             <h3>Krisna-völgy Govinda Étterem</h3>
             <div>
               <h4>Vegán Étterem</h4>
-              <img src="./img/krisnavolgy.jpg" alt="Krisna-völgy Govinda Étterem">
+              <img loading="lazy" src="./img/krisnavolgy.jpg" alt="Krisna-völgy Govinda Étterem">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 8699 Somogyvámos Gauranga tér 1
               </p>
@@ -118,7 +118,7 @@
             <h3>Eger Govinda Étterem</h3>
             <div>
               <h4>Vegán Étterem</h4>
-              <img src="./img/eger.jpg" alt="Eger Govinda Étterem">
+              <img loading="lazy" src="./img/eger.jpg" alt="Eger Govinda Étterem">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 3300 Eger Tűzoltó tér 5
               </p>
@@ -136,7 +136,7 @@
             <h3>Debrecen Govinda Étterem</h3>
             <div>
               <h4>Vegán Étterem</h4>
-              <img src="./img/debrecen.jpg" alt="Debrecen Govinda Étterem">
+              <img loading="lazy" src="./img/debrecen.jpg" alt="Debrecen Govinda Étterem">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 4028 Debrecen Magyari u. 2
               </p>
@@ -157,17 +157,17 @@
         <h2>A vegetáriánus konyha csodás sokszínűsége</h2>
         <div>
           <div>
-            <img src="img/pakora.jpg" alt="Pakora">
+            <img loading="lazy" src="img/pakora.jpg" alt="Pakora">
             <h3>Pakora</h3>
             <p>Bundában sült zöldségek <a href="pakora" class="button">Tovább »</a></p>
           </div>
           <div>
-            <img src="img/puspanna.jpg" alt="Puspanna rizs">
+            <img loading="lazy" src="img/puspanna.jpg" alt="Puspanna rizs">
             <h3>Puspanna rizs</h3>
             <p>Egy köret, ami főétel is egyben <a href="puspanna" class="button">Tovább »</a></p>
           </div>
           <div>
-            <img src="img/malpura.jpg" alt="Malpura">
+            <img loading="lazy" src="img/malpura.jpg" alt="Malpura">
             <h3>Malpura</h3>
             <p>Joghurtba áztatott tészta labdák <a href="malpura" class="button">Tovább »</a></p>
           </div>
