@@ -16,19 +16,20 @@
 
 <h2>Hús nélkül jobb</h2>
 
-<p><strong>Etikai szempont:</strong> A hús olyan étel, amely az állat elpusztításával jár, mindegy, hogy tettlegesen
-    hajtjuk ezt végre, vagy csak finanszírozzuk ezt.
-    <strong>Környezetvédelmi szempont:</strong> A húsipar rendkívül megterhelő a Földnek, mind az ivóvízfogyasztás,
-    mind az energiafelhasználás, mind pedig a termőföldek kihasználása szempontjából.
-    <strong>Élelmezési szempont:</strong> A húsfogyasztás élelmezési problémát is okoz, mivel 1 hektár termőföldön több
+<p><strong>Etikai szempont:</strong> A hús olyan étel, amely az állat elpusztításával jár, mindegy, hogy tettlegesen hajtjuk ezt végre, vagy csak finanszírozzuk ezt.</p>
+
+<p><strong>Környezetvédelmi szempont:</strong> A húsipar rendkívül megterhelő a Földnek, mind az ivóvízfogyasztás, mind az energiafelhasználás, mind pedig a termőföldek kihasználása szempontjából.</p>
+
+<p><strong>Élelmezési szempont:</strong> A húsfogyasztás élelmezési problémát is okoz, mivel 1 hektár termőföldön több
     tucat ember növényi alapú élelmezése valósítható meg, míg ugyanez vágóállatok esetében mindössze
-    1-2 állat tartására elegendő, amiből jóval kevesebb ember lakik jól.
-    <strong>Egészségügyi szempont:</strong> Egyre több tanulmány és felmérés bizonyítja azt, hogy a vegetáriánus
+    1-2 állat tartására elegendő, amiből jóval kevesebb ember lakik jól.</p>
+
+<p><strong>Egészségügyi szempont:</strong> Egyre több tanulmány és felmérés bizonyítja azt, hogy a vegetáriánus
     táplálkozás
     egészséges, megfelelő tápértékű, és általa elkerülhető a legtöbb szív- és érrendszeri probléma,
     csökkenthető a cukorbetegség, és a rák kockázata.</p>
 
-<p>A karma-mentes ételek vagy lakto-vegetáriánus (növényi alapanyagok + tejtermékek), vagy vegán
+<p>A <strong>karma-mentes</strong> ételek vagy lakto-vegetáriánus (növényi alapanyagok + tejtermékek), vagy vegán
     (100% növényi alapanyagok) fogások, vagy ahimszá-vegán (csak erőszakmentes tejgazdaságból
     származó tejterméket használó) ételek, amelyeket egy ima kíséretében felajánlanak Istennek,
     egyfajta áldást kérve rá, amitől istenivé is válnak. Ettől testileg, lelkileg és mentálisan
