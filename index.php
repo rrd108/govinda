@@ -70,7 +70,7 @@
             <h3>Govinda Vega Sarok</h3>
             <div>
               <h4>Vegetáriánus Étterem és Salátabár</h4>
-              <img src="./img/vigyazo.jpg" alt="Govinda Vega Sarok">
+              <img src="./img/vegasarok.jpg" alt="Govinda Vega Sarok">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1053 Budapest, Papnövelde u. 1
               </p>
@@ -85,9 +85,12 @@
             <h3>Govinda Csillaghegy</h3>
             <div>
               <h4>Vegetáriánus Étterem és Salátabár</h4>
-              <img src="./img/vigyazo.jpg" alt="Govinda Csillaghegy">
+              <img src="./img/csillaghegy.jpg" alt="Govinda Csillaghegy">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1039 Budapest, Lehel u. 15-17
+              </p>
+              <p>
+                <i class="fas fa-phone-alt"></i> +36 (30) 398 9610
               </p>
               <a href="https://www.facebook.com/govindacsillaghegy" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
@@ -97,9 +100,12 @@
             <h3>Krisna-völgy Govinda Étterem</h3>
             <div>
               <h4>Vegán Étterem</h4>
-              <img src="./img/vigyazo.jpg" alt="Krisna-völgy Govinda Étterem">
+              <img src="./img/krisnavolgy.jpg" alt="Krisna-völgy Govinda Étterem">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 8699 Somogyvámos Gauranga tér 1
+              </p>
+              <p>
+                <i class="fas fa-phone-alt"></i> +36 (85) 540 002
               </p>
               <a href="https://krisnavolgy.hu/etterem" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
@@ -109,9 +115,12 @@
             <h3>Eger Govinda Étterem</h3>
             <div>
               <h4>Vegán Étterem</h4>
-              <img src="./img/vigyazo.jpg" alt="Eger Govinda Étterem">
+              <img src="./img/eger.jpg" alt="Eger Govinda Étterem">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 3300 Eger Tűzoltó tér 5
+              </p>
+              <p>
+                <i class="fas fa-phone-alt"></i> +36 (36) 313 761
               </p>
               <a href="http://govindaeger.hu" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
@@ -121,9 +130,12 @@
             <h3>Debrecen Govinda Étterem</h3>
             <div>
               <h4>Vegán Étterem</h4>
-              <img src="./img/vigyazo.jpg" alt="Debrecen Govinda Étterem">
+              <img src="./img/debrecen.jpg" alt="Debrecen Govinda Étterem">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 4028 Debrecen Magyari u. 2
+              </p>
+              <p>
+                <i class="fas fa-phone-alt"></i> +36 (30) 372 9959
               </p>
               <a href="http://govindadebrecen.hu" class="web"><i class="fas fa-hand-point-up"></i></a>
             </div>
