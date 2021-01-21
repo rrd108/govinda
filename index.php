@@ -62,7 +62,9 @@
               <p>
                 <i class="fas fa-phone-alt"></i> +36 (1) 797 9373
               </p>
-              <a href="https://www.facebook.com/govindabudapest" class="web"><i class="fab fa-facebook-f"></i></a>
+              <p>
+                <a href="https://www.facebook.com/govindabudapest" class="web"><i class="fab fa-facebook-f"></i></a>
+              </p>
             </div>
           </div>
 
@@ -77,7 +79,9 @@
               <p>
                 <i class="fas fa-phone-alt"></i> +36 (70) 255 2195
               </p>
-              <a href="https://www.facebook.com/vegasarok" class="web"><i class="fab fa-facebook-f"></i></a>
+              <p>
+                <a href="https://www.facebook.com/vegasarok" class="web"><i class="fab fa-facebook-f"></i></a>
+              </p>
             </div>
           </div>
 
@@ -92,7 +96,9 @@
               <p>
                 <i class="fas fa-phone-alt"></i> +36 (30) 398 9610
               </p>
-              <a href="https://www.facebook.com/govindacsillaghegy" class="web"><i class="fab fa-facebook-f"></i></a>
+              <p>
+                <a href="https://www.facebook.com/govindacsillaghegy" class="web"><i class="fab fa-facebook-f"></i></a>
+              </p>
             </div>
           </div>
 

@@ -146,9 +146,12 @@ nav ul li a {
   margin: .5rem;
 }
 
+#restaurants div.restaurant p:last-child {
+  margin: 2rem 0;
+}
+
 #restaurants div.restaurant > div {
   padding: 0 1rem;
-  margin-bottom: 1rem;
 }
 
 #restaurants h3 {
