@@ -62,7 +62,7 @@
               <p>
                 <i class="fas fa-phone-alt"></i> +36 (1) 797 9373
               </p>
-              <a href="https://www.facebook.com/govindabudapest" class="web"><i class="fas fa-hand-point-up"></i></a>
+              <a href="https://www.facebook.com/govindabudapest" class="web"><i class="fab fa-facebook-f"></i></a>
             </div>
           </div>
 
@@ -77,7 +77,7 @@
               <p>
                 <i class="fas fa-phone-alt"></i> +36 (70) 255 2195
               </p>
-              <a href="https://www.facebook.com/vegasarok" class="web"><i class="fas fa-hand-point-up"></i></a>
+              <a href="https://www.facebook.com/vegasarok" class="web"><i class="fab fa-facebook-f"></i></a>
             </div>
           </div>
 
@@ -92,7 +92,7 @@
               <p>
                 <i class="fas fa-phone-alt"></i> +36 (30) 398 9610
               </p>
-              <a href="https://www.facebook.com/govindacsillaghegy" class="web"><i class="fas fa-hand-point-up"></i></a>
+              <a href="https://www.facebook.com/govindacsillaghegy" class="web"><i class="fab fa-facebook-f"></i></a>
             </div>
           </div>
 
@@ -107,7 +107,10 @@
               <p>
                 <i class="fas fa-phone-alt"></i> +36 (85) 540 002
               </p>
-              <a href="https://krisnavolgy.hu/etterem" class="web"><i class="fas fa-hand-point-up"></i></a>
+              <p class="flex">
+                <a href="https://krisnavolgy.hu/etterem" class="web"><i class="fas fa-hand-point-up"></i></a>
+                <a href="https://facebook.com/krisnavolgy" class="web"><i class="fab fa-facebook-f"></i></a>
+              </p>
             </div>
           </div>
 
@@ -122,7 +125,10 @@
               <p>
                 <i class="fas fa-phone-alt"></i> +36 (36) 313 761
               </p>
-              <a href="http://govindaeger.hu" class="web"><i class="fas fa-hand-point-up"></i></a>
+              <p class="flex">
+                <a href="http://govindaeger.hu" class="web"><i class="fas fa-hand-point-up"></i></a>
+                <a href=https://www.facebook.com/egrigovindaetterem" class="web"><i class="fab fa-facebook-f"></i></a>
+              </p>
             </div>
           </div>
 
@@ -137,7 +143,10 @@
               <p>
                 <i class="fas fa-phone-alt"></i> +36 (30) 372 9959
               </p>
-              <a href="http://govindadebrecen.hu" class="web"><i class="fas fa-hand-point-up"></i></a>
+              <p class="flex">
+                <a href="http://govindadebrecen.hu" class="web"><i class="fas fa-hand-point-up"></i></a>
+                <a href=https://www.facebook.com/Govinda-%C3%89tterem-%C3%A9s-Kultur%C3%A1lis-K%C3%B6zpont-Debrecen-175108915857986/" class="web"><i class="fab fa-facebook-f"></i></a>
+              </p>
             </div>
           </div>
         </div>
