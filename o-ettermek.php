@@ -1,3 +1,6 @@
+<?php
+require './secrets.php';
+?>
 <h1>Éttermeink</h1>
 
 <script src="./js/jquery-3.1.1.min.js"></script>
