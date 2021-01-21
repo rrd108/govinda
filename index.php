@@ -105,7 +105,7 @@
                 <i class="fas fa-map-marker-alt"></i> 8699 Somogyvámos Gauranga tér 1
               </p>
               <p>
-                <i class="fas fa-phone-alt"></i> +36 (85) 540 002
+                <i class="fas fa-phone-alt"></i> +36 (30) 436 3900
               </p>
               <p class="flex">
                 <a href="https://krisnavolgy.hu/etterem" class="web"><i class="fas fa-hand-point-up"></i></a>
