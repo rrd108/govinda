@@ -128,7 +128,7 @@ nav ul li a {
 }
 
 #restaurants {
-  padding: 1em;
+  padding: 1em 1em 3em 1em;
   background-color: #c33;
   color: #fff;
   text-align: center;
@@ -190,17 +190,12 @@ article {
 footer {
   background: #c33;
   color: #fff;
-  font-size: .9em;
-  border-top: 1em solid #fff;
   justify-content: space-between;
+  padding: 2rem 1rem;
 }
 
-footer div {
-  margin: 1em;
-}
-
-footer ul {
-  list-style-type: none;
+footer div, footer form, footer h1 {
+  margin: 0;
 }
 
 footer a {
