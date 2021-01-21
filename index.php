@@ -155,7 +155,7 @@
           <div>
             <img src="img/puspanna.jpg" alt="Puspanna rizs">
             <h3>Puspanna rizs</h3>
-            <p>Egy köret ami főétel is egyben <a href="puspanna" class="button">Tovább »</a></p>
+            <p>Egy köret, ami főétel is egyben <a href="puspanna" class="button">Tovább »</a></p>
           </div>
           <div>
             <img src="img/malpura.jpg" alt="Malpura">
