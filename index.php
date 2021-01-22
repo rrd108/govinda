@@ -161,23 +161,7 @@
       <section id="special">
         <h1>Különlegességek</h1>
         <h2>A vegetáriánus konyha csodás sokszínűsége</h2>
-        <div>
-          <div>
-            <img loading="lazy" src="img/pakora.jpg" alt="Pakora">
-            <h3>Pakora</h3>
-            <p>Bundában sült zöldségek <a href="pakora" class="button">Tovább »</a></p>
-          </div>
-          <div>
-            <img loading="lazy" src="img/puspanna.jpg" alt="Puspanna rizs">
-            <h3>Puspanna rizs</h3>
-            <p>Egy köret, ami főétel is egyben <a href="puspanna" class="button">Tovább »</a></p>
-          </div>
-          <div>
-            <img loading="lazy" src="img/malpura.jpg" alt="Malpura">
-            <h3>Malpura</h3>
-            <p>Joghurtba áztatott tészta labdák <a href="malpura" class="button">Tovább »</a></p>
-          </div>
-        </div>
+        <div id="recepies"></div>
       </section>
     <?php else : ?>
     <article>
@@ -193,5 +177,8 @@
 
   <?php require "./footer.php"; ?>
 
+  <?php if (empty($_GET['page'])) : ?>
+    <script src="./js/recepies.min.js"></script>
+  <?php endif; ?>
 </body>
 </html>
