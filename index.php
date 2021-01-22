@@ -45,7 +45,7 @@
         <a href="about" class="button">Tovább »</a>
       </div>
     </section>
-    <?php if (empty($_GET)) : ?>
+    <?php if (empty($_GET['page'])) : ?>
       <section id="restaurants">
         <h1>Éttermek</h1>
         <h2>Magyorországi éttermeink elérhetősége</h2>
