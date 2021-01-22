@@ -83,6 +83,7 @@ nav ul li a {
   background-color: #c33;
   color: #fff;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .button:hover, #special .button:hover {
