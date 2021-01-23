@@ -88,7 +88,7 @@
           <div class="restaurant">
             <h3>Govinda Csillaghegy</h3>
             <div>
-              <h4>Vegetáriánus Étterem és Salátabár</h4>
+              <h4>Vegán Étterem</h4>
               <img loading="lazy" src="./img/csillaghegy.jpg" alt="Govinda Csillaghegy">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1039 Budapest, Lehel u. 15-17
@@ -123,7 +123,7 @@
           <div class="restaurant">
             <h3>Eger Govinda Étterem</h3>
             <div>
-              <h4>Vegán Étterem</h4>
+              <h4>Vegetáriánus Étterem</h4>
               <img loading="lazy" src="./img/eger.jpg" alt="Eger Govinda Étterem">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 3300 Eger Tűzoltó tér 5
@@ -141,7 +141,7 @@
           <div class="restaurant">
             <h3>Debrecen Govinda Étterem</h3>
             <div>
-              <h4>Vegán Étterem</h4>
+              <h4>Vegetáriánus Étterem</h4>
               <img loading="lazy" src="./img/debrecen.jpg" alt="Debrecen Govinda Étterem">
               <p>
                 <i class="fas fa-map-marker-alt"></i> 4028 Debrecen Magyari u. 2
