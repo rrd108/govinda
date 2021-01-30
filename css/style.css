@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   color: #333;
   font-family: 'Quicksand', sans-serif;
@@ -43,9 +47,10 @@ nav ul li a {
 #slider {
   background-image: url('../img/main.jpg');
   background-repeat: no-repeat;
-  background-size: 100% auto;
+  background-size: cover;
   color: #c33;
   padding: 1.5em 0 0 1.5em;
+  height: 50vh;
 }
 
 #slider > div {
@@ -225,9 +230,6 @@ img {
   #govinda-menu ul {
     margin: 1rem;
     font-size: 1.5rem;
-  }
-  #slider {
-    height: 300px;
   }
 
   #slider > div {
