@@ -55,7 +55,9 @@
             <h3>Govinda Vigyázó</h3>
             <div>
               <h4>Vegetáriánus Étterem és Salátabár</h4>
-              <img loading="lazy" src="./img/vigyazo.jpg" alt="Govinda Vigyázó">
+              <div class="round-image">
+                <img loading="lazy" src="./img/vigyazo.jpg" alt="Govinda Vigyázó">
+              </div>
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1051 Budapest, Vigyázó Ferenc u. 4
               </p>
@@ -72,7 +74,9 @@
             <h3>Govinda Vega Sarok</h3>
             <div>
               <h4>Vegetáriánus Étterem és Salátabár</h4>
-              <img loading="lazy" src="./img/vegasarok.jpg" alt="Govinda Vega Sarok">
+              <div class="round-image">
+                <img loading="lazy" src="./img/vegasarok.jpg" alt="Govinda Vega Sarok">
+              </div>
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1053 Budapest, Papnövelde u. 1
               </p>
@@ -89,7 +93,9 @@
             <h3>Govinda Csillaghegy</h3>
             <div>
               <h4>Vegán Étterem</h4>
-              <img loading="lazy" src="./img/csillaghegy.jpg" alt="Govinda Csillaghegy">
+              <div class="round-image">
+                <img loading="lazy" src="./img/csillaghegy.jpg" alt="Govinda Csillaghegy">
+              </div>
               <p>
                 <i class="fas fa-map-marker-alt"></i> 1039 Budapest, Lehel u. 15-17
               </p>
@@ -106,7 +112,9 @@
             <h3>Krisna-völgy Govinda Étterem</h3>
             <div>
               <h4>Vegán Étterem</h4>
-              <img loading="lazy" src="./img/krisnavolgy.jpg" alt="Krisna-völgy Govinda Étterem">
+              <div class="round-image">
+                <img loading="lazy" src="./img/krisnavolgy.jpg" alt="Krisna-völgy Govinda Étterem">
+              </div>
               <p>
                 <i class="fas fa-map-marker-alt"></i> 8699 Somogyvámos Gauranga tér 1
               </p>
@@ -124,7 +132,9 @@
             <h3>Eger Govinda Étterem</h3>
             <div>
               <h4>Vegetáriánus Étterem</h4>
-              <img loading="lazy" src="./img/eger.jpg" alt="Eger Govinda Étterem">
+              <div class="round-image">
+                <img loading="lazy" src="./img/eger.jpg" alt="Eger Govinda Étterem">
+              </div>
               <p>
                 <i class="fas fa-map-marker-alt"></i> 3300 Eger Tűzoltó tér 5
               </p>
@@ -142,7 +152,9 @@
             <h3>Debrecen Govinda Étterem</h3>
             <div>
               <h4>Vegetáriánus Étterem</h4>
-              <img loading="lazy" src="./img/debrecen.jpg" alt="Debrecen Govinda Étterem">
+              <div class="round-image">
+                <img loading="lazy" src="./img/debrecen.jpg" alt="Debrecen Govinda Étterem">
+              </div>
               <p>
                 <i class="fas fa-map-marker-alt"></i> 4028 Debrecen Magyari u. 2
               </p>
