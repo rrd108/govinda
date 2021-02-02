@@ -277,6 +277,7 @@ img {
 
   #special>div, footer, .f, .c {
     display: flex;
+    justify-content: space-evenly;
   }
 
   #special > div {
